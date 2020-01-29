@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/7PE2XuC.gif)
+![](https://i.imgur.com/7OdTmlp.gif)
 > 產生動感十足的視覺感受
