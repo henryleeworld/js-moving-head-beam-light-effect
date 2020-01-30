@@ -12,7 +12,7 @@ body {
 }
 
 :root {
-	--rule-spotlight: ( :doodle {
+	--rule-light-effect: ( :doodle {
 		@grid: 1x26 / 100vw 100vh;
 		background: #000;
 	}
